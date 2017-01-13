@@ -11,6 +11,7 @@ body {
 	padding: 0;
 	}
 #headerimage {
+	width: 300px;
 	background-image: url("header.jpg");
         }
 p { 
